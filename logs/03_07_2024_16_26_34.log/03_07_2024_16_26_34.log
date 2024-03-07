@@ -1,0 +1,6 @@
+[2024-03-07 16:26:34,684]96 werkzeug - WARNING -  * Debugger is active!
+[2024-03-07 16:26:34,699]96 werkzeug - INFO -  * Debugger PIN: 110-896-014
+[2024-03-07 16:26:40,274]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 16:26:40] "GET / HTTP/1.1" 200 -
+[2024-03-07 16:26:40,383]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 16:26:40] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2024-03-07 16:27:03,852]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 16:27:03] "POST /predictdata HTTP/1.1" 200 -
+[2024-03-07 16:28:18,637]96 werkzeug - INFO -  * Detected change in 'C:\\Users\\harsh\\OneDrive\\Desktop\\DS_ML Project\\app.py', reloading

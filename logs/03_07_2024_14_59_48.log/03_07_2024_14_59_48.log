@@ -1,0 +1,17 @@
+[2024-03-07 14:59:48,138]96 werkzeug - WARNING -  * Debugger is active!
+[2024-03-07 14:59:48,145]96 werkzeug - INFO -  * Debugger PIN: 110-896-014
+[2024-03-07 15:02:24,644]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 15:02:24] "GET /predictdata HTTP/1.1" 200 -
+[2024-03-07 15:02:24,675]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 15:02:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-03-07 15:02:33,330]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 15:02:33] "[33mGET /index.html HTTP/1.1[0m" 404 -
+[2024-03-07 15:02:33,362]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 15:02:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-03-07 15:02:54,569]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 15:02:54] "[33mGET /index.html HTTP/1.1[0m" 404 -
+[2024-03-07 15:02:55,403]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 15:02:55] "[33mGET /index.html HTTP/1.1[0m" 404 -
+[2024-03-07 15:03:05,968]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 15:03:05] "GET /predictdata HTTP/1.1" 200 -
+[2024-03-07 15:04:51,711]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 15:04:51] "GET /predictdata HTTP/1.1" 200 -
+[2024-03-07 15:04:51,758]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 15:04:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-03-07 15:04:54,333]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 15:04:54] "GET /predictdata HTTP/1.1" 200 -
+[2024-03-07 15:05:55,032]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 15:05:55] "[33mGET /templates/predictdata HTTP/1.1[0m" 404 -
+[2024-03-07 15:06:09,795]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 15:06:09] "[33mGET /templates/index.html HTTP/1.1[0m" 404 -
+[2024-03-07 15:06:22,109]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 15:06:22] "[33mGET /template HTTP/1.1[0m" 404 -
+[2024-03-07 15:06:26,178]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 15:06:26] "GET / HTTP/1.1" 200 -
+[2024-03-07 15:06:26,196]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 15:06:26] "[33mGET /style.css HTTP/1.1[0m" 404 -

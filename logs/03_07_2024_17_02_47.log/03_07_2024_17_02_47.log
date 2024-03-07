@@ -1,0 +1,4 @@
+[2024-03-07 17:02:47,933]96 werkzeug - WARNING -  * Debugger is active!
+[2024-03-07 17:02:47,937]96 werkzeug - INFO -  * Debugger PIN: 110-896-014
+[2024-03-07 17:03:05,398]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 17:03:05] "POST /predictdata HTTP/1.1" 200 -
+[2024-03-07 17:03:05,429]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 17:03:05] "[33mGET /style.css HTTP/1.1[0m" 404 -

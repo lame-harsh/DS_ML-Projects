@@ -1,0 +1,8 @@
+[2024-03-07 15:24:42,498]96 werkzeug - WARNING -  * Debugger is active!
+[2024-03-07 15:24:42,498]96 werkzeug - INFO -  * Debugger PIN: 110-896-014
+[2024-03-07 15:24:43,264]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 15:24:43] "POST /predictdata HTTP/1.1" 200 -
+[2024-03-07 15:24:47,210]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 15:24:47] "POST /predictdata HTTP/1.1" 200 -
+[2024-03-07 15:24:54,007]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 15:24:54] "GET / HTTP/1.1" 200 -
+[2024-03-07 15:24:54,054]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 15:24:54] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2024-03-07 15:25:11,905]96 werkzeug - INFO - 127.0.0.1 - - [07/Mar/2024 15:25:11] "POST /predictdata HTTP/1.1" 200 -
+[2024-03-07 15:26:11,900]96 werkzeug - INFO -  * Detected change in 'c:\\users\\harsh\\onedrive\\desktop\\ds_ml project\\src\\pipeline\\train_pipeline.py', reloading
