@@ -1,7 +1,0 @@
-README.md
-setup.py
-DS_ML_Project.egg-info/PKG-INFO
-DS_ML_Project.egg-info/SOURCES.txt
-DS_ML_Project.egg-info/dependency_links.txt
-DS_ML_Project.egg-info/top_level.txt
-src/__init__.py
