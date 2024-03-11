@@ -13,7 +13,7 @@ The Student Exam Performance Indicator is a Flask-based web application designed
 - Pandas
 - NumPy
 - scikit-learn
-- 
+
 
 ## Getting Started
 
